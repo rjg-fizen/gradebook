@@ -1,5 +1,7 @@
-Grades\bin
-TestResults
-packages
-Grades.Tests\bin
-Grades.Tests\obj
+Grades/bin/
+Grades/obj/
+TestResults/
+packages/
+Grades.Tests/bin/
+Grades.Tests/obj/
+.vs/
